@@ -1,4 +1,4 @@
-# Amazona ECommerce Website
+# MegaMAmazona ECommerce Website
 ![amazona](/template/images/amazona.jpg)
 
 # React & Node Tutorial - Full ECommerce in 9 Hours [2021]
